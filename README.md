@@ -10,7 +10,7 @@
   
 <p align="center">
   <a href="">
-    <img alt=Support height="300" src="https://telegra.ph/file/c53cf54f39451f92362ec.jpg"> 
+    <img alt=Support height="300" src="https://telegra.ph/file/6825f224a07a7b1de4755.jpg"> 
     </p>
     <h1 align="center">wasi-1.O<br></h1>
    </a>
@@ -44,8 +44,7 @@
 <a href='https://github.com/Itxxwasi/WASI-MD-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE 
-<a href='https://qr-hasi-md.vercel.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-<a href='https://qr-hasi-md.vercel.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code 2-black?style=for-the-badge&logo=qrcode&logoColor=white'/></a>
+<a href='https://qr-code-generator-eta-green.vercel.app/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code-blue?style=for-the-badge&logo=openv&logoColor=white'/></a>
 
 ## `𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐔𝐑𝐋.`    Your Bot Cannot run without this.
 
