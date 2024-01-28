@@ -2,9 +2,9 @@
   <a href="">
     <img alt=Support height="100" src="https://telegra.ph/file/ecadcb172a2477f8c87bf.jpg"> 
 
-## HASI-MD
+## WASI-MD
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines= 𝙃𝘼𝙎𝙄-𝙈𝘿;𝙈𝙪𝙡𝙩𝙞+𝘿𝙚𝙫𝙞𝙘𝙚+𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥+𝘽𝙤𝙩;𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙+𝘽𝙮+𝙃𝘼𝙎𝙀𝙀𝘽 𝙅𝙐𝙏𝙏" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines= WASI-MD;𝙈𝙪𝙡𝙩𝙞+𝘿𝙚𝙫𝙞𝙘𝙚+𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥+𝘽𝙤𝙩;𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙+𝘽𝙮+wasi-tech" alt="Typing SVG" /></a>
   
 
   
@@ -12,21 +12,21 @@
   <a href="">
     <img alt=Support height="300" src="https://telegra.ph/file/c53cf54f39451f92362ec.jpg"> 
     </p>
-    <h1 align="center">Hasi-1.O<br></h1>
+    <h1 align="center">wasi-1.O<br></h1>
    </a>
 </p>
   
 <p align="center">
-<a href="https://github.com/chhaseeb47/Hasi-MD"><img title="Author" src="https://img.shields.io/badge/Hasi-BOT-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Itxxwasi/WASI-MD-BOT"><img title="Author" src="https://img.shields.io/badge/wasi-BOT-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/chhaseeb47/Hasi-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/chhaseeb47/Hasi-MD?&style=social"></a>
-<a href="https://github.com/chhaseeb47/Hasi-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/chhaseeb47/Hasi-MD?style=social"></a>
+<a href="https://github.com/Itxxwasi/WASI-MD-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/WASI-MD-BOT?&style=social"></a>
+<a href="https://github.com/Itxxwasi/WASI-MD-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/WASI-MD-BOT?style=social"></a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="CH HASEEB :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Itxxwasi}/count.svg" alt="Itxxwasi :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/G4FBtLiaB2f84hkT87LKZ4" target="_blank">
+ <a href="https://chat.whatsapp.com/IcqWhTW0vgw4A4N1IPA03J" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -41,7 +41,7 @@
 
 
 ### 1. FORK THIS REPO
-<a href='https://github.com/chhaseeb47/Hasi-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Itxxwasi/WASI-MD-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE 
 <a href='https://qr-hasi-md.vercel.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
@@ -116,17 +116,15 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 
 ## `𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑`
 <div align="left">
-  <a href="[https://github.com/chhaseeb47]"><img src="https://github.com/chhaseeb47.png" width="200" height="200" alt="Ash"/></a>
-<a href="[https://github.com/naveeddogar.png]"><img src="https://github.com/naveeddogar.png" width="150" height="200" alt="Ash"/></a>
+  <a href="[https://github.com/Itxxwasi]"><img src="https://github.com/Itxxwasi.png" width="200" height="200" alt="Ash"/></a>
+
  </div>
 <br>
 <h4 align="left">
 
-| [𝐂𝐇 𝐇𝐀𝐒𝐄𝐄𝐁](https://github.com/chhaseeb47) |
+| [WASI-TECH](https://github.com/Itxxwasi) |
 | Owner, Developer, Bug Fixer, Maintainer, updates|
 
-| [NAVEED BRO ](https://github.com/naveeddogar) |
-| CO.Devloper |
 
 
 
@@ -137,20 +135,20 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 ***Tap On Logo To Subscribe MY YouTube Channel***
 </p>
  <p align="left">
-  <a href="https://www.youtube.com/@mhmodsofc?sub_confirmation=1">
+  <a href="https://www.youtube.com/@wasitech1?sub_confirmation=1">
     <img alt=Support height="70" src="https://telegra.ph/file/eb6347e2764939fbbd35d.png"> 
   </p>
     
  ***Tap On Logo To Contat Me***
  <p align="left">
-  <a href="mailto:HELP_haseebrashid707@gmail.com ">
+  <a href="mailto: itxmewasi@gmail.com ">
     <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
-   <a href="https://wa.me/923407472645?text=Hi%20Haseeb%20Sir...%20I%20need%20some%20help%20in%20Hasi-MD">
+   <a href="https://wa.me/923192173398?text=Hi%20wasi%20Sir...%20I%20need%20some%20help%20in%20Wasi-MD">
     <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
 
 
 <p align="left">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/G4FBtLiaB2f84hkT87LKZ4" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/IcqWhTW0vgw4A4N1IPA03J" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Our Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
@@ -172,8 +170,7 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 <h1 align="center"> Thanks To MH MODS OFC YT
 </h1>
 
- <br><br>
-
+ 
 
 
 
