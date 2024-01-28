@@ -1,13 +1,13 @@
 {
-               "name": "HASI-MD",
+               "name": "WASI-MD",
                "version": "1.0.1",
-               "description": "Multi Device Whatsapp bot by Ch Haseeb.",
+               "description": "Multi Device Whatsapp bot by WASI.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name hasi",
-                "stop": "pm2 stop hasi"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name wasi",
+                "stop": "pm2 stop wasi"
                 },
                "author": "SamPandey001",
               "dependencies": {
@@ -68,10 +68,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/chhaseeb47/HASI-MD.git"
+                 "url": "git+https://github.com/Itxxwasi/WASI-MD-BOT.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/chhaseeb47/HASI-MD/issues"
+                 "url": "https://github.com/Itxxwasi/WASI-MD-BOT/issues"
                   },
-                 "homepage": "https://github.com/chhaseeb47/HASI-MD#readme"
+                 "homepage": "https://github.com/Itxxwasi/WASI-MD-BOT#readme"
                   }
